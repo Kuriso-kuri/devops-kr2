@@ -1,0 +1,9 @@
+.env
+.git
+.gitignore
+.gitattributes
+.dockerignore
+__pycache__/
+*.pyc
+docker-compose.yml
+README.md

@@ -1,3 +1,4 @@
+# KR2: Makeenkov
 import os
 import socket
 
